@@ -1,5 +1,6 @@
 # Hospital-API
-  - Coding Ninjas Skill Test Assignment
+  Check Documentation
+  https://documenter.getpostman.com/view/25311392/2s8ZDScQkq
  
 <!-- TABLE OF CONTENTS -->
 <details>
